@@ -2,7 +2,7 @@
 title: "PW HW1"
 author: "Philip"
 date: "9/4/2019"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
